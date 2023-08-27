@@ -1,0 +1,15 @@
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\context.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\context.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\egl_context.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\egl_context.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\init.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\init.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\input.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\input.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\monitor.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\monitor.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\osmesa_context.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\osmesa_context.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\vulkan.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\vulkan.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\wgl_context.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\wgl_context.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\win32_init.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\win32_init.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\win32_joystick.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\win32_joystick.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\win32_monitor.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\win32_monitor.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\win32_thread.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\win32_thread.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\win32_time.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\win32_time.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\win32_window.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\win32_window.obj
+C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\src\window.c;C:\_Personal\_Game_engine\Tahya\Tahya\vendor\GLFW\bin-int\Debug-windows-x86_64\GLFW\window.obj
